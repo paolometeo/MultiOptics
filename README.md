@@ -1,2 +1,2 @@
 # MultiOptics
-Colorimeter and Turbidimeter
+Colorimeter and Turbidimeter for Arduino
